@@ -1,0 +1,21 @@
+#title {
+    position: relative;
+    height: 300px;
+    color:  yellow;
+    font-size:30px;
+    font-family: "M PLUS Rounded 1c";
+    text-align: center;
+    background-image:url(./image_index/robot.JPG);
+}
+#main{
+   text-align:center;
+   background-color:blue;
+   color:white;
+}
+#link{
+    background-color:#1e90ff;
+    color:white;
+}
+#body{
+    background-color:#40e0d0;
+}
