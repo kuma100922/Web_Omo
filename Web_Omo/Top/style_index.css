@@ -1,16 +1,15 @@
 #title {
     position: relative;
-    height: 300px;
-    color:  yellow;
+    color:  blue;
     font-size:30px;
     font-family: "M PLUS Rounded 1c";
     text-align: center;
-    background-image:url(./image_index/robot.JPG);
 }
 #main{
    text-align:center;
    background-color:blue;
    color:white;
+   background-image:url("https://www.transparenttextures.com/patterns/3px-tile.png");
 }
 #link{
     background-color:#1e90ff;

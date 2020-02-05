@@ -1,7 +1,8 @@
 #title{
     text-align:center;
     font-size:30px;
-    background-color:#dda0dd
+    background-color:#dda0dd;
+    
 }
 #leader{
     color:red;
@@ -10,5 +11,6 @@
     color:blue;
 }
 #main{
-    background-color:#ffc0cb
+    background-color:#ffc0cb;
+    background-image: url("https://www.transparenttextures.com/patterns/60-lines.png");
 }
