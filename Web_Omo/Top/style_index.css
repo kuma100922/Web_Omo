@@ -1,20 +1,39 @@
+#about {
+    background-image: url("image_index/robot.JPG");
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
 #title {
     position: relative;
-    color:  blue;
-    font-size:30px;
+    color: white;
+    font-size: 30px;
     font-family: "M PLUS Rounded 1c";
     text-align: center;
+    margin-bottom: 50px;
 }
-#main{
-   text-align:center;
-   background-color:blue;
-   color:white;
-   background-image:url("https://www.transparenttextures.com/patterns/3px-tile.png");
+
+.global-nav li {
+    position: relative;
+    z-index: 2;
+    float: right;
+    margin: 0 20px;
+    font-size: 20px;
+    list-style: none;
 }
-#link{
-    background-color:#1e90ff;
-    color:white;
+
+.global-nav li a {
+    color: #ffffff;
 }
-#body{
-    background-color:#40e0d0;
+
+#main {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    /*background-image: url("https://www.transparenttextures.com/patterns/3px-tile.png");*/
+}
+
+#body {
+    background-color: #40e0d0;
 }
