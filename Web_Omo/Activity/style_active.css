@@ -1,16 +1,20 @@
-#title{
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+#title {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
     background-color: cadetblue;
-    color:white;
-    font-size:30px;
+    color: white;
+    font-size: 30px;
 }
-#image1{
-    text-align:center;
+
+#image1 {
+    text-align: center;
 }
-#tokiwa{
-    color:red;
+
+#tokiwa {
+    color: red;
 }
-#body{
-    background-color:#90ee90;
+
+#body {
+    padding: 0px 80px;
+    background-color: #90ee90;
 }
