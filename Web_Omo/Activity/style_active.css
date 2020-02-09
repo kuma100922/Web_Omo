@@ -19,6 +19,7 @@
     padding: 0px 80px;
     background-color: #ffcc73;
     background-image: url(https://www.transparenttextures.com/patterns/nice-snow.png);
+    float: center;
 }
 
 .top {
