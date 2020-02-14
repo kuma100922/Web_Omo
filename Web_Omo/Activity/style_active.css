@@ -4,6 +4,7 @@
     background-color: cadetblue;
     color:white;
     font-size:30px;
+    background-image:url("https://www.transparenttextures.com/patterns/3px-tile.png");
 }
 #image1{
     text-align:center;
@@ -12,5 +13,7 @@
     color:red;
 }
 #body{
+    color:white;
     background-color:#90ee90;
+    background-image:url("https://www.transparenttextures.com/patterns/3px-tile.png");
 }
