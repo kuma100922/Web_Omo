@@ -1,35 +1,36 @@
     #title {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: left;
-    color: white;
-    font-size: 30px;
-    background-color: #f79a6f;
-    background-image: url(https://www.transparenttextures.com/patterns/3px-tile.png);
-}
-
-#image1 {
-    text-align: center;
-}
-
-#tokiwa {
-    color: red;
-}
-
-#body {
-    padding: 0px 80px;
-    background-color: #ffcc73;
-    background-image: url(https://www.transparenttextures.com/patterns/nice-snow.png);
-    float: center;
-}
-
-.top {
-    padding-top: 50px;
-}
-
-.back {
-    margin: 0px;
-    padding-right: 0px;
-    padding-left: 10px;
-    padding-top: 50px;
-    padding-bottom: 0px;
-    float: left;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        text-align: left;
+        color: white;
+        font-size: 30px;
+        background-color: #f79a6f;
+        background-image: url(https://www.transparenttextures.com/patterns/3px-tile.png);
+    }
+    
+    #image1 {
+        text-align: center;
+    }
+    
+    #tokiwa {
+        color: red;
+    }
+    
+    #body {
+        padding: 0px 80px;
+        background-color: #ffcc73;
+        background-image: url(https://www.transparenttextures.com/patterns/nice-snow.png);
+        float: center;
+    }
+    
+    .top {
+        padding-top: 50px;
+    }
+    
+    .back {
+        margin: 0px;
+        padding-right: 0px;
+        padding-left: 10px;
+        padding-top: 50px;
+        padding-bottom: 0px;
+        float: left;
+    }
