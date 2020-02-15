@@ -1,36 +1,36 @@
-    #title {
-        text-align: left;
-        color: white;
-        font-size: 30px;
-        background-color: #20ad3e;
-        background-image: url(https://www.transparenttextures.com/patterns/3px-tile.png);
-    }
-    
-    #body {
-        padding: 0px 80px;
-        background-color: #83ff73;
-        background-image: url(https://www.transparenttextures.com/patterns/nice-snow.png);
-    }
-    
-    #main {
-        text-align: center;
-    }
-    /*#soft{
+        #title {
+            text-align: left;
+            color: white;
+            font-size: 30px;
+            background-color: #20ad3e;
+            background-image: url(https://www.transparenttextures.com/patterns/3px-tile.png);
+        }
+        
+        #body {
+            padding: 0px 80px;
+            background-color: #83ff73;
+            background-image: url(https://www.transparenttextures.com/patterns/nice-snow.png);
+        }
+        
+        #main {
+            text-align: center;
+        }
+        /*#soft{
     background-color:#f4a460;
 }*/
-    
-    #main2 {
-        font-size: 30px;
-    }
-    
-    .back {
-        margin: 0px;
-        padding-right: 0px;
-        padding-left: 10px;
-        padding-top: 50px;
-        padding-bottom: 0px;
-        float: left;
-    }
-    /*#hard{
+        
+        #main2 {
+            font-size: 30px;
+        }
+        
+        .back {
+            margin: 0px;
+            padding-right: 0px;
+            padding-left: 10px;
+            padding-top: 50px;
+            padding-bottom: 0px;
+            float: left;
+        }
+        /*#hard{
     background-color:#fffacd;
 }*/
