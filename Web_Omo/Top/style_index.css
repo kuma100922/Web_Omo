@@ -10,13 +10,16 @@ header {
     left: 0;
     top: 0;
     width: 100%;
-    padding-top: 0;
+    height: 100px;
     margin: 0 auto;
     background-color: rgba(0, 0, 0, 1);
 }
 
 .logo {
-    color: white;
+    padding-left: 10px;
+    float: left;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 
@@ -36,7 +39,7 @@ header {
 */
 
 .global-nav li {
-    margin-top: 0;
+    padding-top: 45px;
     position: relative;
     z-index: 2;
     float: right;
