@@ -1,4 +1,25 @@
-#title{
-    text-align:center;
-    font-size:30px;
+#title {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: left;
+    color: white;
+    background-color: #af03d1;
+    background-image: url(https://www.transparenttextures.com/patterns/3px-tile.png);
+}
+
+#body {
+    padding: 0px 80px;
+    background-color: #e665df;
+    background-image: url(https://www.transparenttextures.com/patterns/nice-snow.png);
+    float: center;
+}
+
+.back {
+    margin: 0px;
+    padding-right: 0px;
+    padding-left: 10px;
+    padding-top: 50px;
+    padding-bottom: 0px;
+    float: left;
 }
